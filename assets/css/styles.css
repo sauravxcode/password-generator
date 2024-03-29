@@ -324,3 +324,10 @@ button:hover {
     text-shadow: 0px 0px 8px #0d0d0d3d;
     background: linear-gradient(90deg, rgb(96, 186, 47) 0%, rgb(148, 255, 16) 100%); /* Color change on hover */
 }
+
+.credits p {
+    font-family: "VastagoGrotesk-Regular", sans-serif;
+    color: #585858;
+    font-size: 16px;
+    margin-top: 40px;
+}
