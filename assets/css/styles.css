@@ -230,7 +230,7 @@ button:hover {
 .input-box input {
     width: calc(100% - 60px); /* Adjust input width */
     height: 55px;
-    color: #d4d4d4;
+    color: #fff;
     font-size: 1.06rem;
     font-weight: 500;
     border-radius: 4px;
