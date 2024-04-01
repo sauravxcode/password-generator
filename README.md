@@ -16,4 +16,4 @@ For support or inquiries, please contact me via:
 - LinkedIn: [Saurav Chaturvedi](https://www.linkedin.com/in/isaurav/)
 
 ## Preview
-![Mine Game Preview](assets/img/generatepreview.png)
+![Password Generator Preview](assets/img/generatepreview.png)
